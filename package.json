@@ -1,0 +1,28 @@
+{
+  "name": "pip",
+  "version": "0.0.1",
+  "description": "Parallel Image Processing",
+  "main": "app.js",
+  "dependencies": {
+    "jimp": "^0.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freego555/pip.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "test"
+  ],
+  "author": "freego555",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freego555/pip/issues"
+  },
+  "homepage": "https://github.com/freego555/pip#readme"
+}
