@@ -4,7 +4,8 @@
   "description": "Parallel Image Processing",
   "main": "app.js",
   "dependencies": {
-    "jimp": "^0.9.5"
+    "jimp": "^0.9.5",
+    "path": "^0.12.7"
   },
   "devDependencies": {},
   "scripts": {
