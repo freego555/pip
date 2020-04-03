@@ -16,11 +16,11 @@ async function main () {
 async function resizeImage (imgPath, width, height) {
   // Checking of input parameters
   if (!imgPath) {
-    console.log('!!! Path to the image must be setted as the first parameter.')
+    console.error('!!! Path to the image must be setted as the first parameter.')
     return
   }
   if (Number.isNaN(width)) {
-    console.log('!!! Width for new image must be setted as the second parameter.')
+    console.error('!!! Width for new image must be setted as the second parameter.')
     return
   }
   height = (Number.isNaN(height)) ? jimp.AUTO : height
