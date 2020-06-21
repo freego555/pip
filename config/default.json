@@ -1,0 +1,8 @@
+{
+  "srcFolderPath": "/home/freego/js/pip/temp/in",
+  "destFolderPath": "/home/freego/js/pip/temp/out",
+  "newWidth": 1024,
+  "newHeight": 780,
+  "watermarkImgPath": "/home/freego/js/pip/temp/watermark.jpeg",
+  "opacitySource": 0.5
+}
